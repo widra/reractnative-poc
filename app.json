@@ -25,6 +25,12 @@
     },
     "web": {
       "favicon": "./assets/favicon.png"
-    }
+    },
+    "extra": {
+      "eas": {
+        "projectId": "7ff1bc41-7c6e-4477-ba0f-754f0502aba0"
+      }
+    },
+    "owner": "widra"
   }
 }
