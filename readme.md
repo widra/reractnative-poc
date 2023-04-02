@@ -1,3 +1,10 @@
+# PoC
+
+- https://reactnavigation.org/docs/hello-react-navigation
+
+
+
+
 # Creating cross platform application with react native and expo
 
 
